@@ -159,3 +159,9 @@ User Credentials → Database Lookup → Password Verification → JWT Token →
 ---
 
 *Built with Streamlit, powered by AI, secured with modern authentication practices.*
+
+---
+Deployment:
+
+The application is deployed using Streamlit on Hugging Face Spaces.
+Hugging Face Live Link:https://huggingface.co/spaces/kethanakamireddy/aifitnessloginpage
