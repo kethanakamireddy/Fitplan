@@ -164,4 +164,4 @@ User Credentials → Database Lookup → Password Verification → JWT Token →
 Deployment:
 
 The application is deployed using Streamlit on Hugging Face Spaces.
-Hugging Face Live Link:https://huggingface.co/spaces/kethanakamireddy/aifitnessloginpage
+Hugging Face Live Link:https://huggingface.co/spaces/Infoysprojectwork/AI-Fitness-Plan-Generator
